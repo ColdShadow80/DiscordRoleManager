@@ -8,6 +8,7 @@
   "cmdPrefix": "?",
   "adminRoleName": "",
   "modRoleName": "",
+  "debug": "no",
   "mapMain": {
     "enabled": "yes",
     "url": "https://yourmap.com"
@@ -17,7 +18,15 @@
     "url": "https://www.paypal.me/xyz",
     "img": "https://raw.githubusercontent.com/acocalypso/DiscordRoleManager/master/paypal_icon.jpg"
   },
-  "mainChannelID": ""
+  "mainChannelID": "",
+  "telegram": {
+    "tele_enabled": "yes",
+    "tele_db_host": "",
+    "tele_db_name": "",
+    "tele_db_port": "",
+    "tele_db_user": "",
+    "tele_db_pass": ""
+  }
 }
 
 
